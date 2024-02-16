@@ -14,7 +14,7 @@ exports.homepage = async (req, res) => {
     res.render('index', { title: 'Cooking Blog - Home' });
 };
 
-// Function to create categories
+/**  Function to create categories
 const createCategories = () => {
     // List of categories to insert
     const categoriesToInsert = [
@@ -41,4 +41,4 @@ const createCategories = () => {
     });
 };
 
-module.exports = { createCategories, createCategoryTable };
+module.exports = { createCategories, createCategoryTable };*/
