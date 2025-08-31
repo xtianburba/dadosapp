@@ -1,5 +1,0 @@
-/manifest.webmanifest
-  Cache-Control: no-cache, must-revalidate
-
-/icons/*
-  Cache-Control: no-cache, must-revalidate
